@@ -110,7 +110,7 @@ functional web applications.
 ### 🔹 PROJECT_NAME_2
 **Description:** Short description of your project.  
 **Tech Stack:** Tech1, Tech2, Tech3  
-**GitHub:** https://github.com/YOUR_GITHUB_USERNAME/PROJECT_REPO  
+**GitHub:** https://github.com/harshithasomanathapura-wa  
 
 ---
 
