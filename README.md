@@ -103,7 +103,7 @@ functional web applications.
 ### 🔹 PROJECT_NAME_1
 **Description:** Short description of your project.  
 **Tech Stack:** Tech1, Tech2, Tech3  
-**GitHub:** https://github.com/YOUR_GITHUB_USERNAME/PROJECT_REPO  
+**GitHub:** https://github.com/harshithasomanathapura-wa  
 
 ---
 
@@ -137,7 +137,7 @@ I’m open to working on:
 ## 📬 Connect With Me
 
 📧 Email: harshitha.somanathapura@gmail.com  
-🔗 LinkedIn: //www.linkedin.com/in/harshitha-h-b803673b0/  
+🔗 LinkedIn: www.linkedin.com/in/harshitha-h-b803673b0  
 🌐 Portfolio: YOUR_PORTFOLIO_URL  
 
 ---
