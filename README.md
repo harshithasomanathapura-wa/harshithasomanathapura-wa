@@ -7,9 +7,7 @@
 
 <div align="center">
 
-<a href="www.linkedin.com/in/
-harshitha-h-b803673b0
-Vanity URL name">
+<a href="www.linkedin.com/in/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
