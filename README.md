@@ -39,8 +39,10 @@
 YOUR_SHORT_INTRODUCTION_PARAGRAPH
 
 Example:
-Passionate Full Stack Developer specializing in scalable backend systems.
-Love building efficient applications and exploring AI/ML integration.
+Motivated Full Stack Developer focused on Python and Django. I love learning
+new technologies, collaborating on projects, and turning ideas into
+functional web applications.
+
 
 ---
 
