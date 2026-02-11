@@ -136,8 +136,8 @@ I’m open to working on:
 
 ## 📬 Connect With Me
 
-📧 Email: YOUR_EMAIL  
-🔗 LinkedIn: YOUR_LINKEDIN_URL  
+📧 Email: harshitha.somanathapura@gmail.com  
+🔗 LinkedIn: //www.linkedin.com/in/harshitha-h-b803673b0/  
 🌐 Portfolio: YOUR_PORTFOLIO_URL  
 
 ---
