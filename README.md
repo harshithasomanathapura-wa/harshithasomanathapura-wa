@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=harshitha.somanathapura@gmail.com" target="_blank">
+<a href="mailto:harshitha.somanathapura@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
