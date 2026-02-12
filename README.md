@@ -37,9 +37,6 @@
 
 ## 🎯 About Me
 
-MY_SHORT_INTRODUCTION_PARAGRAPH
-
-
 Motivated Full Stack Developer focused on Python and Django. I love learning
 new technologies, collaborating on projects, and turning ideas into
 functional web applications.
@@ -51,29 +48,29 @@ functional web applications.
 
 ### 🔥 Programming Languages
 • Python  
-•   
-• Language 3  
+• JavaScript  
+• SQL    
+ 
 
 ### 🚀 Backend
-• Framework 1  
-• Framework 2  
-• Framework 3  
+• Django  
+• Django REST Framework  
+• Python   
 
 ### 💅 Frontend
 • React / Vue / Angular  
-• HTML / CSS  
-• Tailwind / Bootstrap  
+• HTML    
+• CSS  
 
 ### 🗄️ Databases
 • PostgreSQL  
 • MySQL  
-• MongoDB  
+• SQLite  
 
 ### ⚙️ DevOps & Tools
-• Git  
-• Docker  
-• AWS  
-• Linux  
+• Git & GitHub  
+• VS Code  
+• Linux (basic)  
 
 ---
 
@@ -102,8 +99,8 @@ functional web applications.
 ## 🏆 Featured Projects
 
 ### 🔹 ONLINE FOOD ORDERING SYSTEM
-**Description:** Short description of your project.  
-**Tech Stack:** Tech1, Tech2, Tech3  
+**Description:** “An online food ordering system built with Python that allows users to browse menus, place orders, and manage deliveries efficiently.”  
+**Tech Stack:** Python, Django, HTML  
 **GitHub:** https://github.com/harshithasomanathapura-wa  
 
 ---
