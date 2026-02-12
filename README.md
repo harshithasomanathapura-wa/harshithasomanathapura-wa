@@ -135,7 +135,7 @@ functional web applications.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshithasomanathapura-wa&layout=compact&theme=radical&hide_border=true" width="48%" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshithasomanathapura-wa&layout=compact&theme=radical&hide_border=true)
 
 </div>
 
