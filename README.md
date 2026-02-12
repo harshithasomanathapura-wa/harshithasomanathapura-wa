@@ -36,9 +36,9 @@
 
 ## 🎯 About Me
 
-YOUR_SHORT_INTRODUCTION_PARAGRAPH
+MY_SHORT_INTRODUCTION_PARAGRAPH
 
-Example:
+
 Motivated Full Stack Developer focused on Python and Django. I love learning
 new technologies, collaborating on projects, and turning ideas into
 functional web applications.
@@ -49,8 +49,8 @@ functional web applications.
 ## 🛠️ Tech Stack & Skills
 
 ### 🔥 Programming Languages
-• Language 1  
-• Language 2  
+• Python  
+•   
 • Language 3  
 
 ### 🚀 Backend
