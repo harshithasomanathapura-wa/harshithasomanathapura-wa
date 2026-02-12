@@ -101,7 +101,7 @@ functional web applications.
 
 ## 🏆 Featured Projects
 
-### 🔹 PROJECT_NAME_1
+### 🔹 ONLINE FOOD ORDERING SYSTEM
 **Description:** Short description of your project.  
 **Tech Stack:** Tech1, Tech2, Tech3  
 **GitHub:** https://github.com/harshithasomanathapura-wa  
@@ -117,9 +117,10 @@ functional web applications.
 
 ## 📚 Current Goals
 
-- [ ] Goal 1  
-- [ ] Goal 2  
-- [ ] Goal 3  
+- [ ] Improve Django & backend skills  
+- [ ] Learn Django REST Framework  
+- [ ] Build real-world full stack projects  
+- [ ] Get job-ready as a Python Developer   
 - [ ] Certification / Learning  
 
 ---
@@ -128,17 +129,17 @@ functional web applications.
 
 I’m open to working on:
 
-• Open Source Projects  
-• AI/ML Projects  
+• Python & Django Projects  
 • Web Applications  
-• Backend Systems  
+• Learning-based Projects  
+• Beginner-friendly Open Source 
 
 ---
 
 ## 📬 Connect With Me
 
 📧 Email: harshitha.somanathapura@gmail.com  
-🔗 LinkedIn: www.linkedin.com/in/harshitha-h-b803673b0  
+🔗 LinkedIn: https://www.linkedin.com/in/harshitha-h-b803673b0/  
 🌐 Portfolio: YOUR_PORTFOLIO_URL  
 
 ---
