@@ -29,7 +29,7 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=F875AA&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=harshithasomanathapura-wa&label=Profile+Views&color=F875AA&style=flat-square" />
 
 </div>
 
