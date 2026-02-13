@@ -2,7 +2,7 @@
 <div>
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=36&duration=4000&pause=1000&color=F875AA&center=true&vCenter=true&width=700&&lines=✨+Harshitha+H;💻+Python+Full+Stack+Developer;🚀+Django+Developer;🌟+Open+to+Collaborations!;🎯+Learning+Building+Improving" />
-</h1>
+</h1> 
 
 <div align="center">
 
